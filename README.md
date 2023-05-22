@@ -1,5 +1,5 @@
 ## These codes are mainly a reproduction of my results from the literature on GKS (Gas-Knietic Theory)
-- KFVS_1D_case.cpp: This code is the **KFVS algorithm** to compute the flow problem in the one-dimensional case, and three classical cases are computed, include Sod shock tube, Sjogreen Supersonic Expansion Case and Woodward-Colella Test Case.
+- KFVS_1st_order_1D_case.cpp: This code is to compute the flow problem in the one-dimensional case using the **1st order KFVS scheme**, and three classical cases are computed, include Sod shock tube, Sjogreen Supersonic Expansion Case and Woodward-Colella Test Case.
 
 ## Reference
 1. Xu K. Gas-kinetic schemes for unsteady compressible flow simulations[J]. Computational Fluid Dynamics, Annual Lecture Series, 29 th, Rhode-Saint-Genese, Belgium, 1998.
