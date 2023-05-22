@@ -1,5 +1,6 @@
 /*
- * 1-D KFVS method -- Sod shock tube
+ * One-dimensional space
+ * 1st order GKS
  * K = n + 2 = 4 (1-D case)
  * gamma = 1.4; sigma = dt / dx
  * */
