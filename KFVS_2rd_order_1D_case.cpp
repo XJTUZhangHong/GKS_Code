@@ -1,6 +1,6 @@
 /*
  * One dimensional space
- * 2nd order GKS
+ * 2nd order KFVS
  * K = n + 2 = 4 (1-D case)
  * gamma = 1.4
  * */
