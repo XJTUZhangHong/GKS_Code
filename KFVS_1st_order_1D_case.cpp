@@ -1,6 +1,6 @@
 /*
  * One dimensional space
- * 1st order GKS
+ * 1st order KFVS
  * K = n + 2 = 4 (1-D case)
  * gamma = 1.4; sigma = dt / dx
  * */
